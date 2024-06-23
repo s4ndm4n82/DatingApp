@@ -278,7 +278,8 @@ obj/
 /wwwroot/node_modules
 
 # Settings files
-API/appsettings.json
+/API/appsettings.json
+/API/appsettings.Development.json
 
 # Db file
-API/dating.db
+/API/dating.db
