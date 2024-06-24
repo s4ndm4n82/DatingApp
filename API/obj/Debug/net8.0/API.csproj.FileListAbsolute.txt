@@ -120,3 +120,4 @@ F:\Users\S4NDM4N\Developmet\DatingApp\API\bin\Debug\net8.0\runtimes\win-x64\nati
 F:\Users\S4NDM4N\Developmet\DatingApp\API\bin\Debug\net8.0\runtimes\win-x86\native\e_sqlite3.dll
 F:\Users\S4NDM4N\Developmet\DatingApp\API\obj\Debug\net8.0\API.csproj.AssemblyReference.cache
 F:\Users\S4NDM4N\Developmet\DatingApp\API\obj\Debug\net8.0\API.csproj.Up2Date
+F:\Users\S4NDM4N\Developmet\DatingApp\API\obj\Debug\net8.0\API.sourcelink.json
