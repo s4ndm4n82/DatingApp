@@ -2539,11 +2539,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "F:\\Users\\S4NDM4N\\Developmet\\DatingApp\\API\\API.csproj",
+      "projectUniqueName": "f:\\Users\\S4NDM4N\\Developmet\\DatingApp\\API\\API.csproj",
       "projectName": "API",
-      "projectPath": "F:\\Users\\S4NDM4N\\Developmet\\DatingApp\\API\\API.csproj",
+      "projectPath": "f:\\Users\\S4NDM4N\\Developmet\\DatingApp\\API\\API.csproj",
       "packagesPath": "F:\\Users\\S4NDM4N\\.nuget\\packages\\",
-      "outputPath": "F:\\Users\\S4NDM4N\\Developmet\\DatingApp\\API\\obj\\",
+      "outputPath": "f:\\Users\\S4NDM4N\\Developmet\\DatingApp\\API\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "F:\\Users\\S4NDM4N\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -2606,7 +2606,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.302/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.401/PortableRuntimeIdentifierGraph.json"
       }
     }
   }
