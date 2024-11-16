@@ -129,3 +129,6 @@ F:\Users\S4NDM4N\Developmet\DatingApp\API\bin\Debug\net8.0\System.IdentityModel.
 F:\Users\S4NDM4N\Developmet\DatingApp\API\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
 F:\Users\S4NDM4N\Developmet\DatingApp\API\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
 F:\Users\S4NDM4N\Developmet\DatingApp\API\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+F:\Users\S4NDM4N\Developmet\DatingApp\API\bin\Debug\net8.0\API.staticwebassets.endpoints.json
+F:\Users\S4NDM4N\Developmet\DatingApp\API\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+F:\Users\S4NDM4N\Developmet\DatingApp\API\obj\Debug\net8.0\staticwebassets\msbuild.API.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
